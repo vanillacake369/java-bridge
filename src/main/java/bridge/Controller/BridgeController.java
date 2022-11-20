@@ -11,7 +11,5 @@ public class BridgeController {
         // 초기 세팅 입력
         // 입력된 세팅에 대해 다리 생성
         // 게임 시작
-        //
     }
-
 }
